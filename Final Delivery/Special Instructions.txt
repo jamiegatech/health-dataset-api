@@ -1,1 +1,19 @@
 Special Instructions
+
+To run the android application on an android phone, you'll need to download the application.zip
+https://github.com/jamiegatech/heart-health-android-app/blob/master/application.zip
+download it directly to the android phone. 
+open the application.zip
+open the application.apk 
+ignore any warnings about running an APK.
+do not submit the APK for testing.
+once it's installed, you can open the application as normal.
+
+to run the android application from android studio (like in the demo), you'll have to download android studio, download the repo, and hit the green run button.
+
+Links to the dataset
+Heart Health Tracker Anonymous Dataset:
+https://afternoon-taiga-96123.herokuapp.com/
+
+To access the datasets directly:
+https://afternoon-taiga-96123.herokuapp.com/heart-health/dataset
