@@ -24,13 +24,13 @@ public class Metric {
     private Integer sleep;
     @Column(name = "activity")
     private Integer activity;
-    @Column(name = "sleep_quality")
+    @Column(name = "squality")
     private Integer sleepQuality; //1,2,3 could be enum but int is fine for npw
-    @Column(name = "food_quality")
+    @Column(name = "fquality")
     private Integer foodQuality; //1,2,3 could be enum but int is fine for npw
-    @Column(name = "activity_quality")
+    @Column(name = "aquality")
     private Integer activityQuality; //1,2,3 could be enum but int is fine for npw
-    @Column(name = "date_time")
+    @Column(name = "date")
     private Date dateTime;
     @Column(name = "age")
     private Integer age;
