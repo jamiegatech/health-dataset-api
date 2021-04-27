@@ -1,1 +1,49 @@
 
+4 REFERENCES
+1. Android Developer Platform.
+hęps://developer.android.com/guide/platform. Published 2021. Accessed
+March 21, 2021.
+
+2. AWS Educate. Amazon Web Services, Inc.
+hęps://aws.amazon.com/education/awseducate/. Published 2021.
+Accessed March 21, 2021.
+
+3. Benjamin, E. J., Muntner, P., Alonso, A., Bięencourt, M. S., Callaway, C.
+W., Carson, A. P., Chamberlain, A. M., Chang, A. R., Cheng, S., Das, S. R.,
+Delling, F. N., Djousse, L., Elkind, M. S. V., Ferguson, J. F., Fornage, M.,
+Jordan, L. C., Khan, S. S., Kissela, B. M., Knutson, K. L., … Virani, S. S.
+(2019). Heart Disease and Stroke Statistics—2019 Update: A Report From
+the American Heart Association. Circulation, 139(10), 1.
+hęps://doi.org/10.1161/cir.0000000000000659
+
+4. IntelliJ IDEA: The Capable & Ergonomic Java IDE by JetBrains. JetBrains.
+hęps://www.jetbrains.com/idea/. Published 2021. Accessed March 21,
+2021.
+
+5. Heart Failure | cdc.gov. (2020, September 8). Centers for Disease Control
+and Prevention. hęps://www.cdc.gov/heartdisease/heart_failure.htm
+
+6. PAR-08-268: Small Research Grant to Improve Health Care Quality
+through Health Information Technology (IT) (R03). (2008).
+Grants.Nih.Gov.
+hęps://grants.nih.gov/grants/guide/pa-files/par-08-268.html
+
+7. REACT FRAMEWORK (CREATING A WEB APPLICATION WITH
+REACT NATIVE). (2018). International Journal of Recent Trends in
+Engineering and Research, 4(3), 642–646.
+hęps://doi.org/10.23883/ijrter.2018.4176.npvsn
+
+8. Spring Boot. Spring.io. hęps://spring.io/projects/spring-boot. Published
+2021. Accessed March 21, 2021.
+
+9. Virani, S. S., Alonso, A., Benjamin, E. J., Bięencourt, M. S., Callaway, C.
+W., Carson, A. P., Chamberlain, A. M., Chang, A. R., Cheng, S., Delling, F.
+N., Djousse, L., Elkind, M. S. V., Ferguson, J. F., Fornage, M., Khan, S. S.,
+Kissela, B. M., Knutson, K. L., Kwan, T. W., Lackland, D. T., … Tsao, C. W.
+(2020). Heart Disease and Stroke Statistics—2020 Update: A Report From
+the American Heart Association. Circulation, 141(9), 1.
+hęps://doi.org/10.1161/cir.0000000000000757
+
+10. Wenger, N. K., Franciosa, J. A., & Weber, K. T. (1987). Heart failure.
+Journal of the American College of Cardiology, 10(2), 73A-76A.
+hęps://doi.org/10.1016/s0735-1097(87)80454-0
