@@ -8,7 +8,6 @@ import com.gatech.encryptedpdfgenerator.restservice.model.Metric;
 
 import java.util.Date;
 @JsonAutoDetect(getterVisibility = JsonAutoDetect.Visibility.PROTECTED_AND_PUBLIC)
-@JsonNaming(PropertyNamingStrategy.SnakeCaseStrategy.class)
 public class MetricDto implements Comparable<MetricDto> {
 
     private Integer weight;
