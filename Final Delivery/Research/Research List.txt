@@ -1,5 +1,5 @@
 
-4 REFERENCES
+REFERENCES
 1. Android Developer Platform.
 hęps://developer.android.com/guide/platform. Published 2021. Accessed
 March 21, 2021.
